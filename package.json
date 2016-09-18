@@ -15,7 +15,10 @@
     "dist",
     "components",
     "tsd.d.ts",
-    "typings-persist"
+    "typings-persist",
+    "typings",
+    "typings.json",
+    "tsconfig.json"
   ],
   "keywords": [
     "angular2",
